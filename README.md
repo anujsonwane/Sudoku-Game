@@ -1,1 +1,2 @@
 In this Sudoku project, user can type the number after clicking on that box. If code recognize it is not not violating any rules then the this number is added in the sudoku otherwise gives warning. If user fill the vacant position of the sudoku till the end then he has solved the Sudoku and if he stuck in middle then got wrong in one of the filled number.
+This project is completed using HTML CSS and JavaScript.
